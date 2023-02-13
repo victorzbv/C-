@@ -1,0 +1,15 @@
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\obj\Debug\net6.0\Example_3.csproj.AssemblyReference.cache
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\obj\Debug\net6.0\Example_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\obj\Debug\net6.0\Example_3.AssemblyInfoInputs.cache
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\obj\Debug\net6.0\Example_3.AssemblyInfo.cs
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\obj\Debug\net6.0\Example_3.csproj.CoreCompileInputs.cache
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\bin\Debug\net6.0\Example_3.exe
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\bin\Debug\net6.0\Example_3.deps.json
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\bin\Debug\net6.0\Example_3.runtimeconfig.json
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\bin\Debug\net6.0\Example_3.dll
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\bin\Debug\net6.0\Example_3.pdb
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\obj\Debug\net6.0\Example_3.dll
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\obj\Debug\net6.0\refint\Example_3.dll
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\obj\Debug\net6.0\Example_3.pdb
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\obj\Debug\net6.0\Example_3.genruntimeconfig.cache
+C:\Users\Megatron\Desktop\all projects\gb\programming C#\C# 1 lection\Example_3\obj\Debug\net6.0\ref\Example_3.dll
